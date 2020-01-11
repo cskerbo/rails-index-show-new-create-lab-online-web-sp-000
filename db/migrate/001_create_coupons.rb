@@ -4,5 +4,5 @@ class CreateCoupons < ActiveRecord::Migration
       c.string :coupon_code
       c.string :store
     end
-  en
+  end
 end
